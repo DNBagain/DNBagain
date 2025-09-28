@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DNBagain
+- 👋 Hi, I’m @ericcartman
 - 👀 I’m interested in crypto defi and permissionless interaction
 - 🌱 I’m currently learning Solidity and Python
 - 💞️ I’m looking to collaborate on ...
